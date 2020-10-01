@@ -1,4 +1,4 @@
-# Web-and-Software-Security-Project-
+# Web-and-Software-Security-Project-Unsecure 
 
 CS 472 & CS 315-Fall 2020 and Spring 2019 
 
@@ -12,3 +12,7 @@ Full Stack blog website
 4. Front end development languages: HTML, CSS, JS, Bootstrap, jQuery 
 5. Back end development languages: SQL and PHP
 
+The website was attacked and following vulnerabilities were found: Injections, XSS attacks, Clickjacking, Broken Access Control, Sensative Data Exposure, Insecure Deserialization, Security Misconfiguration, Broken Authentication and CSRF. 
+Website was scanned using DAST and SAST tools for all the vulnerabilities: ZAP and Arachni analysis tools. 
+
+NOTE: Please unzip all files before proceeding. Images/gifs folder is not included for privacy issues. 
